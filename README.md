@@ -5,7 +5,11 @@
 ## Installation
 
 
-### 1. Set environment variables
+### 1. Create GitHub access token
+* Go to https://github.com/settings/tokens
+* Push Generate new token button and copy and keep the token.
+
+### 2. Set environment variables
 ```bash
 # Add below environment variables your .bashrc / .zshrc
  export GITHUB_ACCESS_TOKEN=ADD_YOUR_OWN_ACCESS_KEY
@@ -15,12 +19,13 @@
  export GITHUB_MY_LOGIN_ID=ADD_YOUR_LOGIN_ID
 ```
 
-### 2. Install rr
+### 3. Install rr
 ```
 npm i -g @lv0gun9/rr
 ```
 
-### 3. Create new PR on browser
+### 4. Create new PR on browser
 You can do it.
 
-### 4. Open your terminal and type `rr` and press the ENTHER button.
+### 5. Open your terminal and type `rr` and press the ENTER button.
+It will shows the you pull request URL.
