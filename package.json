@@ -1,6 +1,6 @@
 {
     "name": "@lv0gun9/rr",
-    "version": "1.0.2",
+    "version": "1.0.2-readme",
     "description": "",
     "main": "./lib/main.js",
     "publishConfig": {
