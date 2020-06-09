@@ -1,0 +1,28 @@
+{
+    "name": "@lv0gun9/rr",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./lib/main.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "bin": {
+        "rr": "./cli.js"
+    },
+    "keywords": [
+        "cli",
+        "rr"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/kurly09/rr"
+    },
+    "bugs": {
+        "url": "git://github.com/kurly09/rr/issues"
+    },
+    "author": "GunnGu, Hwang <geongu.hwang@kurlycorp.com>",
+    "license": "MIT",
+    "dependencies": {
+        "github-api-improved": "^3.4.0"
+    }
+}
